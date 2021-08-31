@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562980208012",
+    "project_id": "chatappos-a9da5",
+    "storage_bucket": "chatappos-a9da5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562980208012:android:f5fb3683c8d9f445742aa9",
+        "android_client_info": {
+          "package_name": "com.example.chatappos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562980208012-i3ogh1a1mt3ndipvo0mnkk6i6eac4c4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsMJfGOhQacTHiqAoSB3OHGnjwk4fcBHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562980208012-i3ogh1a1mt3ndipvo0mnkk6i6eac4c4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
